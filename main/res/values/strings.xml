@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">speedTest</string>
+    <string name="title_activity_speed_test">SpeedMap</string>
+</resources>
